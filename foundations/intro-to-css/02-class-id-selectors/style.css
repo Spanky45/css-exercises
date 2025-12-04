@@ -1,1 +1,10 @@
-/* Add CSS Styling */
+.odd,
+.big {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(255, 204, 204);
+
+}
+
+.big {
+    font-size: 24px;
+}
